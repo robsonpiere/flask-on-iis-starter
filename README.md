@@ -1,5 +1,7 @@
 # flask-on-iis #
 
+* Tutorial completo em andamento:
+
 Baseado em : 
 - [Deploying Flask app on IIS](https://medium.com/@rajesh.r6r/deploying-a-python-flask-rest-api-on-iis-d8d9ebf886e9)
 
@@ -19,4 +21,4 @@ Exemplo:
 
 4. Alterar no webconfig o 'scriptProcessor' com o caminho obtido acima
 
-5. Efetuar a configuraçõ no IIS
+5. Efetuar a configuração no IIS
