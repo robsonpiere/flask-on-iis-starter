@@ -1,0 +1,23 @@
+version: "2"
+updates:
+  - package-ecosystem: pip
+    directory: "/"
+    open-pull-requests-limit: 5
+    schedule:
+      timezone: "America/Sao_Paulo"
+      time: "00:00"
+      interval: weekly
+      day: monday
+    labels:
+      - "pip"
+      - "dependências"
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      timezone: "America/Sao_Paulo"
+      time: "00:00"
+      interval: weekly
+      day: monday
+    labels:
+      - "actions"
+      - "dependências"
