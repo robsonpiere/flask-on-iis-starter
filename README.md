@@ -1,6 +1,19 @@
 <h1 align="center">Flask On Iis Starter</h1>
 
 <p align="center">
+  <img alt="PHP Version" src="https://img.shields.io/badge/Python-3.6|3.7|3.8|3.9-green?&logo=python">
+
+  <img alt="Flask Version" src="https://img.shields.io/badge/Flask-2-green?&logo=Flask&logoColor=#DD4814">
+
+  <img alt="Testes" src="https://github.com/robsonpiere/flask-on-iis-starter/actions/workflows/testes.yaml/badge.svg">
+ 
+  <a href="https://codecov.io/gh/robsonpiere/flask-on-iis-starter">
+        <img src="https://codecov.io/gh/robsonpiere/flask-on-iis-starter/branch/main/graph/badge.svg?token=GDMOVQ6NDE"/>
+  </a>
+    
+</p>
+
+<p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/robsonpiere/flask-on-iis-starter?color=56BEB8">
 
   <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/robsonpiere/flask-on-iis-starter?color=56BEB8">
@@ -75,6 +88,8 @@ $ python main.py
 
 # O app vai inicializar em <http://localhost:5000>
 ```
+
+## Configurando IIS ##
 
 ## :memo: Licença ##
 
